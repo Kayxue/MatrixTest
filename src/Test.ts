@@ -1,6 +1,4 @@
 import { matrix, add, subtract, multiply, Matrix } from "mathjs"
-import { PNG } from "pngjs"
-import fs from "fs"
 
 const A = matrix([
     [1, 5, 3, 9],
