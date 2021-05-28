@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@types/mathjs": "^9.3.2",
+    "image-output": "^2.4.2",
+    "jimp": "^0.16.1",
+    "mathjs": "^9.4.1",
+    "pngjs": "^3.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.1",
+    "@types/pngjs": "^6.0.0"
+  }
+}
